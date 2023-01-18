@@ -1,6 +1,6 @@
 # UP AND RUNNING WITH GIT AND GITHUB
 
-A practical workshop to learn how to collaborate with Git and Github.
+A practical workshop organised by Microsoft Learn Student Ambassadors to learn how to collaborate with Git and Github.
 
 ## Pre-workshop exercise
 
